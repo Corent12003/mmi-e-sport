@@ -12,7 +12,7 @@
     <marquee>Valiant - MMI Chambéry - L'avalanche - Breakout - </marquee>
     <marquee>Valiant - MMI Chambéry - L'avalanche - Breakout - </marquee>
     <marquee>Valiant - MMI Chambéry - L'avalanche - Breakout - </marquee>
-    <marquee>Valiant - Mb vn vn bvn bn   - L'avalanche - Breakout - </marquee>
+    <marquee>Valiant - MICOUD Production - L'avalanche - Breakout - </marquee>
 </div>
 <div class="info-event">
     <div class="text">
